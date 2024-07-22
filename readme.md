@@ -8,7 +8,7 @@ The purpose of this project is to practice web development skills, including HTM
 
 ## Website
 
-You can view the practice portfolio website [here](https://practice-portfolio-website.vercel.app/).
+You can view the practice portfolio website :- https://practice-portfolio-website.vercel.app/
 
 ## Contents
 
