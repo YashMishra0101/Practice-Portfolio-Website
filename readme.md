@@ -6,6 +6,11 @@ This repository contains the code for a practice portfolio website. It is not my
 
 The purpose of this project is to practice web development skills, including HTML, CSS, and JavaScript. 
 
+## Important
+
+This website and code are gathered from different open sources like GitHub repositories, websites, and online tutorials, so anyone can use my this repository.
+
+
 ## Website
 
 You can view the practice portfolio website :- https://practice-portfolio-website.vercel.app/
